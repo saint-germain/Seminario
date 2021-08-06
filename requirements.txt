@@ -1,6 +1,5 @@
-emcee
+numpy
 corner
-pymc
 scipy 
 pandas
 seaborn
