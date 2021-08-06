@@ -1,0 +1,11 @@
+numpy 
+scipy 
+mkl-service 
+libpython 
+m2w64-toolchain
+emcee
+corner
+pymc
+scipy 
+pandas
+seaborn
